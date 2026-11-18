@@ -1,0 +1,53 @@
+{
+  "created_utc": "2026-11-17T16:11:34+00:00",
+  "python": "3.13.12",
+  "library_versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "umap-learn": "0.6.0"
+  },
+  "raw_data_sha256": {
+    "dnaderiveddata.txt": "4402da054c6598ad78a040df251ba92e049805ba9af3e482364299e127782b3f",
+    "occurrence.txt": "7d4dbe66818a24efbf9b3213f4e2b3932b80fadc9fa4dc62f1e041c0d48114e7"
+  },
+  "settings": {
+    "random_seed": 42,
+    "kmer_size": 4,
+    "pca_components": 20,
+    "k": 9,
+    "k_source": "stability-gated rule (min_stability=0.85)",
+    "dbscan_eps": 6.0,
+    "dbscan_min_samples": 8,
+    "anomaly_top_fraction": 0.08,
+    "rarefaction_depth": 3685
+  },
+  "counts": {
+    "dna_rows": 4741,
+    "dna_rows_without_occurrence": 7,
+    "asv_before_cleaning": 504,
+    "asv": 498,
+    "stations": 20,
+    "dbscan_noise": 101,
+    "shared_points_for_comparison": 397
+  },
+  "pca_variance_explained": 0.7012239924039972,
+  "kmeans_internal": {
+    "silhouette": 0.3403684141831679,
+    "davies_bouldin": 1.3075974191945856,
+    "calinski_harabasz": 95.7612478277572
+  },
+  "clean_report": {
+    "median_length": 426.0,
+    "removed_by_length": 6,
+    "removed_by_invalid_bases": 0,
+    "kept": 498
+  },
+  "random_baseline_class_level": {
+    "ARI": -0.0006879972009914068,
+    "NMI": 0.060083137182602664,
+    "homogeneity": 0.06995331531741045,
+    "completeness": 0.052653956528120195
+  }
+}

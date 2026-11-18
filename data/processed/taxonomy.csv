@@ -1,0 +1,499 @@
+asv_id,major_group,tax_class,tax_order,family,genus,scientific_name,rank,has_group,poorly_resolved
+ASV_001,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_002,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_003,Metazoa,Arthropoda,Crustacea,Maxillopoda,Delibus,"Delibus nudus (Sewell, 1929)",species,True,False
+ASV_004,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888",species,True,False
+ASV_005,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_006,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus Boeck, 1865",genus,True,False
+ASV_007,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_008,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_009,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus parvus (Claus, 1863)",species,True,False
+ASV_010,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_011,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_012,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_013,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888",species,True,False
+ASV_014,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_015,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_016,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_017,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus parvus (Claus, 1863)",species,True,False
+ASV_018,Metazoa,Arthropoda,Crustacea,Maxillopoda,Neocalanus,"Neocalanus Sars G.O., 1925",genus,True,False
+ASV_019,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_020,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_021,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_022,Metazoa,Arthropoda,Crustacea,Maxillopoda,Mecynocera,"Mecynocera Thompson I.C., 1888",genus,True,False
+ASV_023,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_024,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_025,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_026,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_027,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_028,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_029,Metazoa,Mollusca,,,,Mollusca,class,True,True
+ASV_030,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_031,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_032,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum inerme (J. Müller, 1856)",species,True,False
+ASV_033,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_034,Metazoa,Arthropoda,Crustacea,Maxillopoda,Undinula,"Undinula vulgaris (Dana, 1849)",species,True,False
+ASV_035,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_036,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus pavo (Dana, 1852)",species,True,False
+ASV_037,Metazoa,Arthropoda,Crustacea,Maxillopoda,Delibus,"Delibus nudus (Sewell, 1929)",species,True,False
+ASV_038,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_039,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_040,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_041,Metazoa,Arthropoda,Crustacea,Maxillopoda,Delibus,"Delibus nudus (Sewell, 1929)",species,True,False
+ASV_042,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus minutus Andronov, 1973",species,True,False
+ASV_043,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_044,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888",species,True,False
+ASV_045,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_046,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_047,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_048,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus minutus Andronov, 1973",species,True,False
+ASV_049,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_050,Metazoa,Arthropoda,Crustacea,Maxillopoda,Undinula,"Undinula vulgaris (Dana, 1849)",species,True,False
+ASV_051,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_052,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_053,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_054,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888",species,True,False
+ASV_055,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_056,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_057,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_058,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_059,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_060,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_061,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_062,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_063,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_064,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_065,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_066,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_067,Metazoa,Arthropoda,Crustacea,Maxillopoda,Canthocalanus,"Canthocalanus pauper (Giesbrecht, 1888)",species,True,False
+ASV_068,Dinoflagellata,Dinophyceae,Gonyaulacales,Ceratiaceae,Tripos,"Tripos Bory de Saint-Vincent, 1823",genus,True,False
+ASV_069,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_070,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_071,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_072,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_073,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_074,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_075,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_076,Metazoa,Arthropoda,Crustacea,Maxillopoda,Lucicutia,"Lucicutia Giesbrecht, 1898",genus,True,False
+ASV_077,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum Haeckel, 1862 sensu Brandt, 1905",genus,True,False
+ASV_078,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_079,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus pavo (Dana, 1852)",species,True,False
+ASV_080,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_081,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_082,Metazoa,Arthropoda,Crustacea,Maxillopoda,Centropages,"Centropages violaceus (Claus, 1863)",species,True,False
+ASV_083,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_084,Metazoa,Arthropoda,Crustacea,Maxillopoda,Undinula,"Undinula vulgaris (Dana, 1849)",species,True,False
+ASV_085,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_086,Metazoa,Arthropoda,Crustacea,Maxillopoda,Lucicutia,"Lucicutia Giesbrecht, 1898",genus,True,False
+ASV_087,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_088,Metazoa,Arthropoda,Crustacea,Maxillopoda,Neocalanus,"Neocalanus Sars G.O., 1925",genus,True,False
+ASV_089,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_090,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_091,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_092,Metazoa,Arthropoda,Crustacea,Maxillopoda,Canthocalanus,"Canthocalanus pauper (Giesbrecht, 1888)",species,True,False
+ASV_093,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_094,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_095,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_096,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus parvus (Claus, 1863)",species,True,False
+ASV_097,Metazoa,Arthropoda,Crustacea,Maxillopoda,Centropages,"Centropages violaceus (Claus, 1863)",species,True,False
+ASV_098,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_099,Metazoa,Arthropoda,Crustacea,Maxillopoda,Pareucalanus,"Pareucalanus attenuatus (Dana, 1849)",species,True,False
+ASV_100,Dinoflagellata,Dinophyceae,Gonyaulacales,Ceratiaceae,Tripos,"Tripos Bory de Saint-Vincent, 1823",genus,True,False
+ASV_101,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_102,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Sphaerozoum,Sphaerozoum,genus,True,False
+ASV_103,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_104,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_105,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_106,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_107,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_108,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_109,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_110,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_111,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_112,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_113,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_114,Metazoa,Arthropoda,Crustacea,Maxillopoda,Pontellina,"Pontellina plumata (Dana, 1849)",species,True,False
+ASV_115,Ciliophora,Spirotrichea,Tintinnida,Rhabdonellidae,Rhabdonella,"Rhabdonella spiralis (Fol, 1881)",species,True,False
+ASV_116,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_117,Metazoa,Arthropoda,Crustacea,Maxillopoda,Neocalanus,"Neocalanus Sars G.O., 1925",genus,True,False
+ASV_118,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_119,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_120,Metazoa,Arthropoda,Crustacea,Maxillopoda,Anomalocera,"Anomalocera patersonii Templeton, 1837",species,True,False
+ASV_121,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_122,Metazoa,Arthropoda,Crustacea,Maxillopoda,Lucicutia,"Lucicutia Giesbrecht, 1898",genus,True,False
+ASV_123,Metazoa,Arthropoda,Crustacea,Maxillopoda,Neocalanus,"Neocalanus Sars G.O., 1925",genus,True,False
+ASV_124,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_125,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_126,Metazoa,Arthropoda,Crustacea,Maxillopoda,Neocalanus,"Neocalanus Sars G.O., 1925",genus,True,False
+ASV_127,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_128,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_129,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_130,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_131,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_132,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_133,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_134,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_135,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_136,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum inerme (J. Müller, 1856)",species,True,False
+ASV_137,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,Amphorides,"Amphorides quadrilineata (Claparède & Lachmann, 1858)",species,True,False
+ASV_138,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_139,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_140,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus minutus Andronov, 1973",species,True,False
+ASV_141,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_142,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_143,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_144,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_145,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_146,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_147,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_148,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia negligens Dana, 1849",species,True,False
+ASV_149,Metazoa,Arthropoda,Crustacea,Malacostraca,Meganyctiphanes,"Meganyctiphanes norvegica (M. Sars, 1857)",species,True,False
+ASV_150,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888",species,True,False
+ASV_151,Metazoa,Arthropoda,Crustacea,Malacostraca,Meganyctiphanes,"Meganyctiphanes norvegica (M. Sars, 1857)",species,True,False
+ASV_152,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_153,Metazoa,Arthropoda,Crustacea,Maxillopoda,Neocalanus,"Neocalanus Sars G.O., 1925",genus,True,False
+ASV_154,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_155,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_156,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_157,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_158,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Sphaerozoum,"Sphaerozoum punctatum (Huxley) Mueller, 1858",species,True,False
+ASV_159,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_160,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_161,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum inerme (J. Müller, 1856)",species,True,False
+ASV_162,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_163,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_164,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia negligens Dana, 1849",species,True,False
+ASV_165,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_166,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_167,Unassigned,Unassigned,,,,"Peridiniales Haeckel, 1894",order,False,True
+ASV_168,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_169,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_170,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_171,Ciliophora,Spirotrichea,Tintinnida,Undellidae,,"Undellidae Kofoid & Campbell, 1929",family,True,False
+ASV_172,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_173,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_174,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_175,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_176,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_177,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_178,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,Steenstrupiella,"Steenstrupiella Kofoid & Campbell, 1929",genus,True,False
+ASV_179,Metazoa,Echinodermata,,,,"Echinodermata Bruguière, 1791 [ex Klein, 1734]",class,True,True
+ASV_180,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_181,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_182,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_183,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_184,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_185,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_186,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_187,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_188,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_189,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_190,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_191,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,Amphorides,"Amphorides quadrilineata (Claparède & Lachmann, 1858)",species,True,False
+ASV_192,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_193,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia negligens Dana, 1849",species,True,False
+ASV_194,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_195,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_196,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_197,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_198,Metazoa,Arthropoda,Crustacea,Maxillopoda,Sapphirina,"Sapphirina scarlata Giesbrecht, 1891",species,True,False
+ASV_199,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_200,Metazoa,Arthropoda,Crustacea,Maxillopoda,Pontellina,"Pontellina plumata (Dana, 1849)",species,True,False
+ASV_201,Metazoa,Arthropoda,Crustacea,Maxillopoda,Subeucalanus,"Subeucalanus pileatus (Giesbrecht, 1888)",species,True,False
+ASV_202,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_203,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_204,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_205,Dinoflagellata,Dinophyceae,Dinophysiales,Oxyphysiaceae,Phalachroma,"Phalacroma doryphorum Stein, 1883",species,True,False
+ASV_206,Metazoa,Arthropoda,Crustacea,Maxillopoda,Candacia,"Candacia Dana, 1846",genus,True,False
+ASV_207,Metazoa,Arthropoda,Crustacea,Maxillopoda,Mecynocera,"Mecynocera Thompson I.C., 1888",genus,True,False
+ASV_208,Ciliophora,Spirotrichea,Tintinnida,Dictyocystidae,Dictyocysta,"Dictyocysta Ehrenberg, 1854",genus,True,False
+ASV_209,Dinoflagellata,Dinophyceae,Gonyaulacales,Ceratiaceae,Tripos,"Tripos Bory de Saint-Vincent, 1823",genus,True,False
+ASV_210,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_211,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_212,Unassigned,Unassigned,,,,Nassellaria,order,False,True
+ASV_213,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_214,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_215,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_216,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_217,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_218,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,Steenstrupiella,"Steenstrupiella Kofoid & Campbell, 1929",genus,True,False
+ASV_219,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum inerme (J. Müller, 1856)",species,True,False
+ASV_220,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_221,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_222,Metazoa,Ctenophora,,,,"Ctenophora Eschscholtz, 1829",phylum,True,True
+ASV_223,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_224,Metazoa,Arthropoda,Crustacea,Maxillopoda,Pachos,"Pachos Stebbing, 1910",genus,True,False
+ASV_225,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_226,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888",species,True,False
+ASV_227,Metazoa,Arthropoda,Crustacea,Maxillopoda,Subeucalanus,"Subeucalanus Geletin, 1976",genus,True,False
+ASV_228,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,,"Tintinnidae Claparède & Lachmann, 1858",family,True,False
+ASV_229,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_230,Ciliophora,Spirotrichea,Tintinnida,Xystonellidae,Xystonella,"Xystonella longicauda (Brandt, 1906) Brandt, 1906",species,True,False
+ASV_231,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_232,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_233,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum Haeckel, 1862 sensu Brandt, 1905",genus,True,False
+ASV_234,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_235,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_236,Metazoa,Platyhelminthes,Turbellaria,Polycladida,Prostheceraeus,"Prostheceraeus vittatus (Montagu, 1815)",species,True,False
+ASV_237,Metazoa,Arthropoda,Crustacea,Maxillopoda,Sapphirina,"Sapphirina Thompson J., 1829",genus,True,False
+ASV_238,Metazoa,Mollusca,,,,Mollusca,class,True,True
+ASV_239,Metazoa,Mollusca,,,,Mollusca,class,True,True
+ASV_240,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_241,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_242,Dinoflagellata,Dinophyceae,,,,"Dinophyceae Fritsch, 1927",class,True,True
+ASV_243,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_244,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_245,Metazoa,Mollusca,Gastropoda,Heterobranchia,Aplysia,"Aplysia Linnaeus, 1767",genus,True,False
+ASV_246,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_247,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_248,Metazoa,Mollusca,,,,Mollusca,class,True,True
+ASV_249,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_250,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_251,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_252,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_253,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_254,Metazoa,Arthropoda,Crustacea,Maxillopoda,Sapphirina,"Sapphirina Thompson J., 1829",genus,True,False
+ASV_255,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_256,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_257,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_258,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_259,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_260,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_261,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_262,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_263,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_264,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_265,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus minutus Andronov, 1973",species,True,False
+ASV_266,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,Amphorides,"Amphorides quadrilineata (Claparède & Lachmann, 1858)",species,True,False
+ASV_267,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_268,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_269,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_271,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_272,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_273,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus Boeck, 1865",genus,True,False
+ASV_274,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia danae Giesbrecht, 1889",species,True,False
+ASV_275,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_276,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_277,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_278,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_279,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_280,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_281,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,Collozoum pelagicum,species,True,False
+ASV_282,Ciliophora,Spirotrichea,Tintinnida,Undellidae,,"Undellidae Kofoid & Campbell, 1929",family,True,False
+ASV_283,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_284,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia negligens Dana, 1849",species,True,False
+ASV_285,Metazoa,Arthropoda,Crustacea,Maxillopoda,Pleuromamma,"Pleuromamma Giesbrecht in Giesbrecht & Schmeil, 1898",genus,True,False
+ASV_286,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_287,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_288,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_289,Metazoa,Mollusca,Gastropoda,Caenogastropoda,,"Caenogastropoda Cox, 1960",family,True,False
+ASV_290,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_291,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_292,Dinoflagellata,Dinophyceae,,,,"Dinophyceae Fritsch, 1927",class,True,True
+ASV_293,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_294,Dinoflagellata,Dinophyceae,Gonyaulacales,Ceratiaceae,Tripos,"Tripos Bory de Saint-Vincent, 1823",genus,True,False
+ASV_295,Ciliophora,Spirotrichea,Tintinnida,Dictyocystidae,Dictyocysta,"Dictyocysta Ehrenberg, 1854",genus,True,False
+ASV_296,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_297,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_298,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_299,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_300,Dinoflagellata,Dinophyceae,Gymnodiniales,Gymnodiniaceae,,"Gymnodiniaceae Lankester, 1885",family,True,False
+ASV_301,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_302,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_303,Haptophyta,Prymnesiophyceae,Prymnesiales,Prymnesiaceae,Haptolina,"Haptolina Edvardsen & Eikrem, 2011",genus,True,False
+ASV_304,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_305,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,Steenstrupiella,"Steenstrupiella Kofoid & Campbell, 1929",genus,True,False
+ASV_306,Dinoflagellata,Dinophyceae,Gonyaulacales,Ceratiaceae,Tripos,"Tripos Bory de Saint-Vincent, 1823",genus,True,False
+ASV_307,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_308,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_309,Metazoa,Arthropoda,Crustacea,Maxillopoda,Copilia,"Copilia mirabilis Dana, 1852",species,True,False
+ASV_310,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_311,Dinoflagellata,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Gonyaulax,"Gonyaulax polygramma Stein, 1883",species,True,False
+ASV_312,Ciliophora,Spirotrichea,Choreotrichida,Leegaardiellidae B,Leegaardiella,"Leegaardiella Lynn & Montagnes, 1988",genus,True,False
+ASV_313,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_314,Dinoflagellata,Dinophyceae,Gonyaulacales,Goniodomataceae,Goniodoma,"Goniodoma polyedricum (Pouchet) Dodge, 1981",species,True,False
+ASV_315,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_316,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_317,Metazoa,Arthropoda,Crustacea,Maxillopoda,Pleuromamma,"Pleuromamma Giesbrecht in Giesbrecht & Schmeil, 1898",genus,True,False
+ASV_318,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_319,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_320,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_321,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum inerme (J. Müller, 1856)",species,True,False
+ASV_322,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_323,Metazoa,Arthropoda,Crustacea,Maxillopoda,Delibus,"Delibus Andronov in Vives & Shmeleva, 2007",genus,True,False
+ASV_324,Radiolaria,Polycystinea,Nassellaria,Collosphaeridae,Disolenia,"Disolenia quadrata (Ehrenberg) Nigrini, 1967",species,True,False
+ASV_326,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_327,Metazoa,Arthropoda,Crustacea,Maxillopoda,Lucicutia,"Lucicutia Giesbrecht, 1898",genus,True,False
+ASV_328,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_329,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_330,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_331,Dinoflagellata,Dinophyceae,Peridiniales,Blastodiniaceae,Blastodinium,"Blastodinium Chatton, 1906",genus,True,False
+ASV_332,Radiolaria,Polycystinea,Nassellaria,Collosphaeridae,Disolenia,"Disolenia quadrata (Ehrenberg) Nigrini, 1967",species,True,False
+ASV_333,Dinoflagellata,Dinophyceae,Gymnodiniales,Warnowiaceae,Warnowia,"Warnowia Lindemann, 1928",genus,True,False
+ASV_334,Metazoa,Arthropoda,Crustacea,Maxillopoda,Sapphirina,"Sapphirina Thompson J., 1829",genus,True,False
+ASV_335,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888",species,True,False
+ASV_336,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_337,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_338,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_339,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_340,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_341,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_342,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_343,Unassigned,Unassigned,,,,"Tintinnida Kofoid & Campbell, 1929",order,False,True
+ASV_344,Ciliophora,Spirotrichea,Tintinnida,Xystonellidae,Dadayiella,"Dadayiella ganymedes (Entz, 1884) Kofoid & Campbell, 1929",species,True,False
+ASV_345,Ciliophora,Spirotrichea,Tintinnida,Rhabdonellidae,Rhabdonella,"Rhabdonella spiralis (Fol, 1881)",species,True,False
+ASV_346,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_347,Unassigned,Unassigned,,,,Nassellaria,order,False,True
+ASV_348,Ciliophora,Spirotrichea,Tintinnida,Undellidae,,"Undellidae Kofoid & Campbell, 1929",family,True,False
+ASV_349,Dinoflagellata,Dinophyceae,Dinophysiales,Oxyphysiaceae,Phalachroma,"Phalacroma rotundatum (Claparéde & Lachmann) Kofoid & Michener, 1911",species,True,False
+ASV_350,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_351,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_352,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia negligens Dana, 1849",species,True,False
+ASV_353,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_354,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_355,Metazoa,Arthropoda,Crustacea,Maxillopoda,Candacia,"Candacia Dana, 1846",genus,True,False
+ASV_356,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_357,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_358,Metazoa,Arthropoda,Crustacea,Malacostraca,Euphausia,"Euphausia Dana, 1850",genus,True,False
+ASV_359,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_360,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_361,Dinoflagellata,Dinophyceae,Dinophysiales,Dinophysiaceae,Ornithocercus,"Ornithocercus Stein, 1883",genus,True,False
+ASV_362,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_363,Unassigned,Unassigned,,,,"Peridiniales Haeckel, 1894",order,False,True
+ASV_364,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_365,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_366,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_367,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum inerme (J. Müller, 1856)",species,True,False
+ASV_368,Dinoflagellata,Dinophyceae,,,,"Dinophyceae Fritsch, 1927",class,True,True
+ASV_369,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_370,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_371,Metazoa,Arthropoda,Crustacea,Maxillopoda,Miracia,"Miracia Dana, 1846",genus,True,False
+ASV_372,Unassigned,Unassigned,,,,"Tintinnida Kofoid & Campbell, 1929",order,False,True
+ASV_373,Dinoflagellata,Dinophyceae,Peridiniales,Blastodiniaceae,Blastodinium,"Blastodinium mangini Chatton, 1908",species,True,False
+ASV_374,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,Salpingella,"Salpingella Jörgensen, 1924",genus,True,False
+ASV_375,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,,Sphaerozoidae,subfamily,True,False
+ASV_376,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_377,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_378,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acrocalanus,"Acrocalanus Giesbrecht, 1888",genus,True,False
+ASV_379,Metazoa,Mollusca,Gastropoda,Caenogastropoda,,"Caenogastropoda Cox, 1960",family,True,False
+ASV_380,Metazoa,Mollusca,,,,Mollusca,class,True,True
+ASV_381,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_382,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_383,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus styliremis Giesbrecht, 1888",species,True,False
+ASV_384,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_385,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_386,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_387,Dinoflagellata,Dinophyceae,Peridiniales,Thoracosphaeraceae,,"Thoracosphaeraceae Schiller, 1930 emend. Tangen in Tangen, Brand, Blackwelder & Guillard, 1982",family,True,False
+ASV_388,Unassigned,Unassigned,,,,"Peridiniales Haeckel, 1894",order,False,True
+ASV_389,Dinoflagellata,Dinophyceae,Peridiniales,Blastodiniaceae,Blastodinium,"Blastodinium mangini Chatton, 1908",species,True,False
+ASV_390,Dinoflagellata,Dinophyceae,Gonyaulacales,Ceratiaceae,Tripos,"Tripos Bory de Saint-Vincent, 1823",genus,True,False
+ASV_391,Metazoa,Arthropoda,Crustacea,Maxillopoda,Lucicutia,"Lucicutia Giesbrecht, 1898",genus,True,False
+ASV_392,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_393,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_394,Metazoa,Arthropoda,Crustacea,Maxillopoda,Copilia,"Copilia mirabilis Dana, 1852",species,True,False
+ASV_395,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia danae Giesbrecht, 1889",species,True,False
+ASV_396,Haptophyta,Prymnesiophyceae,Calcihaptophycidae,Rhabdosphaeraceae,Algirosphaera,"Algirosphaera robusta (Lohmann) R.E.Norris, 1984",species,True,False
+ASV_397,Unassigned,Unassigned,,,,"Gastropoda Cuvier, 1795",order,False,True
+ASV_398,Metazoa,Mollusca,,,,Mollusca,class,True,True
+ASV_399,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_400,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_401,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum Haeckel, 1862 sensu Brandt, 1905",genus,True,False
+ASV_402,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia negligens Dana, 1849",species,True,False
+ASV_403,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus arcuicornis (Dana, 1849)",species,True,False
+ASV_404,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_405,Metazoa,Arthropoda,Crustacea,Maxillopoda,Sapphirina,"Sapphirina scarlata Giesbrecht, 1891",species,True,False
+ASV_406,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus minutus Andronov, 1973",species,True,False
+ASV_407,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_408,Radiolaria,Polycystinea,Nassellaria,Sphaerozoidae,Collozoum,"Collozoum Haeckel, 1862 sensu Brandt, 1905",genus,True,False
+ASV_409,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_410,Ciliophora,Spirotrichea,Tintinnida,Xystonellidae,Xystonella,"Xystonella longicauda (Brandt, 1906) Brandt, 1906",species,True,False
+ASV_411,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_412,Metazoa,Arthropoda,Crustacea,Maxillopoda,Copilia,"Copilia mirabilis Dana, 1852",species,True,False
+ASV_413,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_414,Unassigned,Unassigned,,,,"Gymnodiniales Lemmermann, 1910",order,False,True
+ASV_415,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_416,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_417,Unassigned,Unassigned,,,,"Spumellaria Ehrenberg, 1875",order,False,True
+ASV_418,Ciliophora,Spirotrichea,Tintinnida,Dictyocystidae,,"Dictyocystidae Haeckel, 1873",family,True,False
+ASV_419,Dinoflagellata,Dinophyceae,Peridiniales,Thoracosphaeraceae,,"Thoracosphaeraceae Schiller, 1930 emend. Tangen in Tangen, Brand, Blackwelder & Guillard, 1982",family,True,False
+ASV_420,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_421,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888",species,True,False
+ASV_422,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_423,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_424,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_425,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_426,Metazoa,Urochordata,,,,"Urochordata Lamarck, 1816",class,True,True
+ASV_427,Ciliophora,Spirotrichea,Tintinnida,Dictyocystidae,Dictyocysta,"Dictyocysta Ehrenberg, 1854",genus,True,False
+ASV_428,Ciliophora,Spirotrichea,Tintinnida,Eutintinnidae,Eutintinnus,"Eutintinnus Kofoid & Campbell, 1939",genus,True,False
+ASV_429,Metazoa,Arthropoda,Crustacea,Maxillopoda,Copilia,"Copilia mirabilis Dana, 1852",species,True,False
+ASV_430,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_431,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_432,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_433,Metazoa,Arthropoda,Crustacea,Maxillopoda,Centropages,"Centropages violaceus (Claus, 1863)",species,True,False
+ASV_434,Dinoflagellata,Dinophyceae,,,,"Dinophyceae Fritsch, 1927",class,True,True
+ASV_435,Dinoflagellata,Dinophyceae,Suessiales,Suessiaceae,Pelagodinium,"Pelagodinium Siano, Montresor, Probert & de Vargas, 2010",genus,True,False
+ASV_436,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_437,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_438,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_439,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,,"Tintinnidae Claparède & Lachmann, 1858",family,True,False
+ASV_440,Metazoa,Arthropoda,Crustacea,Maxillopoda,Pleuromamma,"Pleuromamma abdominalis (Lubbock, 1856)",species,True,False
+ASV_442,Ciliophora,Spirotrichea,Tintinnida,Dictyocystidae,,"Dictyocystidae Haeckel, 1873",family,True,False
+ASV_443,Metazoa,Arthropoda,Crustacea,Maxillopoda,Corycaeus,"Corycaeus speciosus Dana, 1849",species,True,False
+ASV_444,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_445,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_446,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_447,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_448,Metazoa,Mollusca,Gastropoda,Heterobranchia,Aplysia,"Aplysia Linnaeus, 1767",genus,True,False
+ASV_449,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_450,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus arcuicornis (Dana, 1849)",species,True,False
+ASV_451,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_452,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_453,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_454,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_455,Haptophyta,Prymnesiophyceae,,,,Prymnesiophyceae Hibberd,class,True,True
+ASV_456,Metazoa,Arthropoda,Crustacea,Maxillopoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974",genus,True,False
+ASV_457,Metazoa,Arthropoda,Crustacea,Maxillopoda,Centropages,"Centropages violaceus (Claus, 1863)",species,True,False
+ASV_458,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acrocalanus,"Acrocalanus Giesbrecht, 1888",genus,True,False
+ASV_459,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_460,Metazoa,Mollusca,,,,Mollusca,class,True,True
+ASV_461,Metazoa,Mollusca,Gastropoda,Heterobranchia,Creseis,"Creseis Rang, 1828",genus,True,False
+ASV_462,Ciliophora,Spirotrichea,Choreotrichida,Leegaardiellidae B,Leegaardiella,"Leegaardiella Lynn & Montagnes, 1988",genus,True,False
+ASV_463,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_464,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus arcuicornis (Dana, 1849)",species,True,False
+ASV_465,Dinoflagellata,Dinophyceae,Gonyaulacales,Ceratiaceae,Tripos,"Tripos Bory de Saint-Vincent, 1823",genus,True,False
+ASV_466,Dinoflagellata,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Gymnoxanthella,"Gymnoxanthella radiolariae T.Yuasa & T.Horiguchi, 2016",species,True,False
+ASV_467,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus Giesbrecht, 1888",genus,True,False
+ASV_468,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_469,Metazoa,Mollusca,Gastropoda,Heterobranchia,,"Heterobranchia Burmeister, 1837",family,True,False
+ASV_470,Ciliophora,Spirotrichea,Tintinnida,Tintinnidae,Salpingella,"Salpingella Jörgensen, 1924",genus,True,False
+ASV_471,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_472,Unassigned,Unassigned,,,,"Peridiniales Haeckel, 1894",order,False,True
+ASV_473,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus arcuicornis (Dana, 1849)",species,True,False
+ASV_474,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_475,Metazoa,Arthropoda,Crustacea,Maxillopoda,Sapphirina,"Sapphirina scarlata Giesbrecht, 1891",species,True,False
+ASV_476,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_479,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_480,Metazoa,Arthropoda,Crustacea,Maxillopoda,Neocalanus,"Neocalanus Sars G.O., 1925",genus,True,False
+ASV_481,Metazoa,Arthropoda,Crustacea,Maxillopoda,Miracia,"Miracia Dana, 1846",genus,True,False
+ASV_482,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_483,Dinoflagellata,Dinophyceae,Dinophysiales,Amphisoleniaceae,Amphisolenia,"Amphisolenia bidentata Schröder, 1900",species,True,False
+ASV_484,Metazoa,Arthropoda,Crustacea,Maxillopoda,Delibus,"Delibus Andronov in Vives & Shmeleva, 2007",genus,True,False
+ASV_485,Ciliophora,Nassophorea,,,,"Nassophorea Small & Lynn, 1981",class,True,True
+ASV_486,Ciliophora,Spirotrichea,Tintinnida,Undellidae,,"Undellidae Kofoid & Campbell, 1929",family,True,False
+ASV_487,Metazoa,Annelida,,,,Annelida,class,True,True
+ASV_488,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_489,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888",species,True,False
+ASV_490,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acartia,"Acartia negligens Dana, 1849",species,True,False
+ASV_492,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_493,Ciliophora,Spirotrichea,Choreotrichida,Leegaardiellidae B,Leegaardiella,"Leegaardiella Lynn & Montagnes, 1988",genus,True,False
+ASV_494,Radiolaria,Acantharea,,,,Acantharea,class,True,True
+ASV_495,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona similis Claus, 1866",species,True,False
+ASV_496,Metazoa,Arthropoda,Crustacea,Maxillopoda,,Maxillopoda,family,True,False
+ASV_497,Metazoa,Arthropoda,Crustacea,Maxillopoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)",species,True,False
+ASV_498,Metazoa,Arthropoda,Crustacea,Maxillopoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888",species,True,False
+ASV_499,Metazoa,Arthropoda,Crustacea,Maxillopoda,Oithona,"Oithona Baird, 1843",genus,True,False
+ASV_500,Metazoa,Mollusca,Gastropoda,Heterobranchia,,"Heterobranchia Burmeister, 1837",family,True,False
+ASV_501,Metazoa,Cnidaria,,,,"Cnidaria Hatschek, 1888",phylum,True,True
+ASV_502,Dinoflagellata,Syndiniales,,,,Syndiniales,class,True,True
+ASV_503,Metazoa,Arthropoda,Crustacea,Maxillopoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888",genus,True,False
+ASV_504,Metazoa,Arthropoda,Crustacea,Maxillopoda,Acrocalanus,"Acrocalanus Giesbrecht, 1888",genus,True,False

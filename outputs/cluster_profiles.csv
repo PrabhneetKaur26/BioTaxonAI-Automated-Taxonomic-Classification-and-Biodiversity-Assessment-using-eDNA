@@ -1,0 +1,10 @@
+cluster,size,dominant_group,group_purity,dominant_class,class_purity,top_genera,unassigned,poorly_resolved_pct,mean_gc,median_stations,reads_share_pct,representative_asv
+0,31,Ciliophora,1.0,Spirotrichea,0.9655172413793104,"Amphorides (3), Steenstrupiella (3), Dictyocysta (3)",2,9.67741935483871,0.4394475421502356,7.0,0.3932474556302684,ASV_470
+1,103,Metazoa,1.0,Arthropoda,1.0,"Clausocalanus (41), Cosmocalanus (9), Neocalanus (7)",0,0.0,0.4219814951407119,10.0,25.802902454355017,ASV_159
+2,44,Radiolaria,1.0,Polycystinea,1.0,"Collozoum (37), Sphaerozoum (2), Disolenia (2)",2,4.545454545454546,0.35479158264101257,3.0,7.564117476941399,ASV_161
+3,82,Metazoa,1.0,Arthropoda,1.0,"Calocalanus (57), Paracalanus (9), Acrocalanus (8)",0,0.0,0.4115135525246789,9.0,26.727274085472896,ASV_467
+4,80,Metazoa,1.0,Arthropoda,1.0,"Oithona (34), Corycaeus (9), Sapphirina (6)",0,0.0,0.4422239426814552,10.0,33.14537136539572,ASV_019
+5,59,Dinoflagellata,1.0,Dinophyceae,0.5909090909090909,"Tripos (7), Blastodinium (3), Phalachroma (2)",15,62.71186440677966,0.4510755020923502,10.0,0.981784692482624,ASV_314
+6,64,Metazoa,0.9523809523809523,Arthropoda,0.2698412698412698,"Clausocalanus (3), Meganyctiphanes (2), Aplysia (2)",1,57.8125,0.47627000565455513,8.0,2.830314523263495,ASV_409
+7,26,Metazoa,0.6153846153846154,Cnidaria,0.5769230769230769,-,0,100.0,0.4249499667708362,10.0,2.4113485773192798,ASV_173
+8,9,Metazoa,1.0,Arthropoda,1.0,Acartia (9),0,0.0,0.4474711335176451,8.0,0.14363936913930564,ASV_193

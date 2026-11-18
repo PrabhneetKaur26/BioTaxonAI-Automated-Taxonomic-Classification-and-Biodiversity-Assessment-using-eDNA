@@ -1,0 +1,499 @@
+asv_id,length,total_reads,n_stations,cluster_kmeans,cluster_ward,cluster_dbscan,major_group,tax_class,genus,scientific_name
+ASV_001,428,159796,20,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_002,429,156668,20,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_003,426,66780,17,3,1,0,Metazoa,Arthropoda,Delibus,"Delibus nudus (Sewell, 1929)"
+ASV_004,425,55547,16,3,1,0,Metazoa,Arthropoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888"
+ASV_005,428,45263,20,4,3,7,Metazoa,Arthropoda,,Maxillopoda
+ASV_006,426,39092,18,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus Boeck, 1865"
+ASV_007,428,29770,20,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_008,429,25677,14,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_009,426,20629,20,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus parvus (Claus, 1863)"
+ASV_010,429,18553,4,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_011,422,15709,18,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_012,426,13214,19,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_013,426,10684,15,3,1,0,Metazoa,Arthropoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888"
+ASV_014,428,10516,20,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_015,427,9683,13,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_016,426,9527,20,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_017,426,8676,20,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus parvus (Claus, 1863)"
+ASV_018,426,8532,19,1,2,0,Metazoa,Arthropoda,Neocalanus,"Neocalanus Sars G.O., 1925"
+ASV_019,428,7891,20,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_020,429,6213,17,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_021,428,5576,20,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_022,426,5342,13,1,2,0,Metazoa,Arthropoda,Mecynocera,"Mecynocera Thompson I.C., 1888"
+ASV_023,429,5154,19,6,4,8,Metazoa,Annelida,,Annelida
+ASV_024,424,5047,13,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_025,424,4638,9,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_026,425,4238,15,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_027,426,4032,17,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_028,428,3860,16,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_029,424,3486,14,6,4,-1,Metazoa,Mollusca,,Mollusca
+ASV_030,422,3404,13,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_031,429,3375,17,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_032,429,3321,15,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum inerme (J. Müller, 1856)"
+ASV_033,427,3280,14,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_034,426,3066,14,1,2,0,Metazoa,Arthropoda,Undinula,"Undinula vulgaris (Dana, 1849)"
+ASV_035,428,3034,16,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_036,425,2775,14,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus pavo (Dana, 1852)"
+ASV_037,426,2532,16,3,1,0,Metazoa,Arthropoda,Delibus,"Delibus nudus (Sewell, 1929)"
+ASV_038,428,2422,19,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_039,424,2277,18,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_040,428,2143,17,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_041,426,2142,16,3,1,0,Metazoa,Arthropoda,Delibus,"Delibus nudus (Sewell, 1929)"
+ASV_042,424,2139,12,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus minutus Andronov, 1973"
+ASV_043,429,2073,4,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_044,425,2043,15,3,1,0,Metazoa,Arthropoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888"
+ASV_045,424,2003,16,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_046,429,1986,3,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_047,427,1974,18,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_048,424,1967,15,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus minutus Andronov, 1973"
+ASV_049,428,1955,17,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_050,426,1948,11,1,2,0,Metazoa,Arthropoda,Undinula,"Undinula vulgaris (Dana, 1849)"
+ASV_051,427,1911,6,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_052,428,1866,19,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_053,429,1794,3,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_054,425,1783,13,3,1,0,Metazoa,Arthropoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888"
+ASV_055,424,1759,15,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_056,434,1734,16,6,4,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_057,428,1728,15,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_058,428,1727,14,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_059,428,1657,15,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_060,427,1648,19,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_061,426,1608,8,6,4,8,Metazoa,Annelida,,Annelida
+ASV_062,427,1606,6,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_063,428,1546,19,4,3,7,Metazoa,Arthropoda,,Maxillopoda
+ASV_064,429,1525,5,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_065,428,1454,17,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_066,430,1445,11,6,4,-1,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_067,427,1428,9,1,2,0,Metazoa,Arthropoda,Canthocalanus,"Canthocalanus pauper (Giesbrecht, 1888)"
+ASV_068,424,1339,19,5,8,-1,Dinoflagellata,Dinophyceae,Tripos,"Tripos Bory de Saint-Vincent, 1823"
+ASV_069,424,1324,7,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_070,426,1266,14,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_071,424,1247,12,6,4,8,Metazoa,Annelida,,Annelida
+ASV_072,428,1241,20,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_073,429,1204,5,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_074,429,1156,9,5,6,9,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_075,428,1123,18,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_076,428,1113,14,1,2,0,Metazoa,Arthropoda,Lucicutia,"Lucicutia Giesbrecht, 1898"
+ASV_077,429,1102,1,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum Haeckel, 1862 sensu Brandt, 1905"
+ASV_078,429,1058,4,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_079,425,1000,14,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus pavo (Dana, 1852)"
+ASV_080,429,1000,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_081,424,996,15,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_082,429,984,16,1,2,-1,Metazoa,Arthropoda,Centropages,"Centropages violaceus (Claus, 1863)"
+ASV_083,426,968,18,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_084,426,963,10,1,2,0,Metazoa,Arthropoda,Undinula,"Undinula vulgaris (Dana, 1849)"
+ASV_085,428,931,14,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_086,427,924,16,1,2,0,Metazoa,Arthropoda,Lucicutia,"Lucicutia Giesbrecht, 1898"
+ASV_087,429,918,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_088,426,909,15,1,2,0,Metazoa,Arthropoda,Neocalanus,"Neocalanus Sars G.O., 1925"
+ASV_089,429,899,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_090,428,885,16,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_091,428,877,11,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_092,427,877,9,1,2,0,Metazoa,Arthropoda,Canthocalanus,"Canthocalanus pauper (Giesbrecht, 1888)"
+ASV_093,425,869,19,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_094,429,847,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_095,422,839,15,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_096,426,838,17,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus parvus (Claus, 1863)"
+ASV_097,429,830,17,1,2,-1,Metazoa,Arthropoda,Centropages,"Centropages violaceus (Claus, 1863)"
+ASV_098,429,811,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_099,426,802,3,1,2,0,Metazoa,Arthropoda,Pareucalanus,"Pareucalanus attenuatus (Dana, 1849)"
+ASV_100,424,799,17,5,8,-1,Dinoflagellata,Dinophyceae,Tripos,"Tripos Bory de Saint-Vincent, 1823"
+ASV_101,428,789,10,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_102,429,784,11,2,0,3,Radiolaria,Polycystinea,Sphaerozoum,Sphaerozoum
+ASV_103,428,771,17,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_104,429,744,4,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_105,424,732,11,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_106,425,708,15,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_107,424,704,10,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_108,425,702,16,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_109,425,700,15,6,4,-1,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_110,429,684,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_111,424,674,10,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_112,428,654,9,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_113,424,640,7,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_114,428,634,11,1,2,-1,Metazoa,Arthropoda,Pontellina,"Pontellina plumata (Dana, 1849)"
+ASV_115,415,600,18,0,5,10,Ciliophora,Spirotrichea,Rhabdonella,"Rhabdonella spiralis (Fol, 1881)"
+ASV_116,424,596,6,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_117,426,578,19,1,2,0,Metazoa,Arthropoda,Neocalanus,"Neocalanus Sars G.O., 1925"
+ASV_118,428,577,9,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_119,429,575,5,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_120,428,571,10,1,2,-1,Metazoa,Arthropoda,Anomalocera,"Anomalocera patersonii Templeton, 1837"
+ASV_121,428,563,15,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_122,427,561,13,1,2,0,Metazoa,Arthropoda,Lucicutia,"Lucicutia Giesbrecht, 1898"
+ASV_123,426,549,10,1,2,0,Metazoa,Arthropoda,Neocalanus,"Neocalanus Sars G.O., 1925"
+ASV_124,424,544,2,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_125,422,535,11,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_126,426,527,7,1,2,0,Metazoa,Arthropoda,Neocalanus,"Neocalanus Sars G.O., 1925"
+ASV_127,427,514,12,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_128,424,512,11,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_129,428,506,7,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_130,429,495,3,5,6,-1,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_131,424,485,5,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_132,428,482,9,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_133,424,479,9,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_134,425,478,7,3,1,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_135,429,470,15,5,6,9,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_136,429,469,5,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum inerme (J. Müller, 1856)"
+ASV_137,418,464,18,0,5,10,Ciliophora,Spirotrichea,Amphorides,"Amphorides quadrilineata (Claparède & Lachmann, 1858)"
+ASV_138,429,462,5,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_139,429,461,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_140,424,459,8,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus minutus Andronov, 1973"
+ASV_141,429,442,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_142,429,440,10,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_143,426,439,19,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_144,429,432,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_145,428,424,18,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_146,425,419,16,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_147,424,413,5,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_148,429,402,15,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia negligens Dana, 1849"
+ASV_149,431,388,6,6,4,-1,Metazoa,Arthropoda,Meganyctiphanes,"Meganyctiphanes norvegica (M. Sars, 1857)"
+ASV_150,426,382,14,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888"
+ASV_151,431,380,8,6,4,-1,Metazoa,Arthropoda,Meganyctiphanes,"Meganyctiphanes norvegica (M. Sars, 1857)"
+ASV_152,426,370,18,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_153,426,368,9,1,2,0,Metazoa,Arthropoda,Neocalanus,"Neocalanus Sars G.O., 1925"
+ASV_154,428,365,15,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_155,429,362,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_156,425,345,14,6,4,8,Metazoa,Annelida,,Annelida
+ASV_157,429,345,3,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_158,430,345,5,2,0,3,Radiolaria,Polycystinea,Sphaerozoum,"Sphaerozoum punctatum (Huxley) Mueller, 1858"
+ASV_159,426,341,6,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_160,426,341,11,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_161,429,339,3,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum inerme (J. Müller, 1856)"
+ASV_162,430,337,7,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_163,429,335,7,6,4,8,Metazoa,Annelida,,Annelida
+ASV_164,430,332,8,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia negligens Dana, 1849"
+ASV_165,424,326,6,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_166,428,325,13,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_167,424,323,13,5,8,11,Unassigned,Unassigned,,"Peridiniales Haeckel, 1894"
+ASV_168,429,320,13,5,6,9,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_169,426,317,14,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_170,428,312,13,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_171,416,310,14,0,5,10,Ciliophora,Spirotrichea,,"Undellidae Kofoid & Campbell, 1929"
+ASV_172,427,308,10,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_173,422,306,2,7,7,-1,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_174,428,303,16,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_175,429,301,1,5,6,-1,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_176,397,295,15,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_177,428,293,9,4,3,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_178,418,286,6,0,5,10,Ciliophora,Spirotrichea,Steenstrupiella,"Steenstrupiella Kofoid & Campbell, 1929"
+ASV_179,425,283,2,6,4,-1,Metazoa,Echinodermata,,"Echinodermata Bruguière, 1791 [ex Klein, 1734]"
+ASV_180,423,269,11,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_181,424,269,11,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_182,427,263,13,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_183,425,261,9,6,2,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_184,424,260,3,5,8,11,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_185,428,259,16,4,3,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_186,428,255,16,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_187,424,254,6,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_188,428,249,10,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_189,429,248,4,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_190,426,244,10,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_191,417,243,14,0,5,10,Ciliophora,Spirotrichea,Amphorides,"Amphorides quadrilineata (Claparède & Lachmann, 1858)"
+ASV_192,424,242,19,5,8,-1,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_193,429,242,11,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia negligens Dana, 1849"
+ASV_194,430,236,14,6,4,-1,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_195,416,232,18,7,6,-1,Radiolaria,Acantharea,,Acantharea
+ASV_196,431,229,1,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_197,424,228,9,6,4,8,Metazoa,Annelida,,Annelida
+ASV_198,428,228,13,4,3,7,Metazoa,Arthropoda,Sapphirina,"Sapphirina scarlata Giesbrecht, 1891"
+ASV_199,426,227,11,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_200,428,225,11,1,2,-1,Metazoa,Arthropoda,Pontellina,"Pontellina plumata (Dana, 1849)"
+ASV_201,425,209,1,1,2,0,Metazoa,Arthropoda,Subeucalanus,"Subeucalanus pileatus (Giesbrecht, 1888)"
+ASV_202,425,207,11,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_203,429,200,6,5,6,9,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_204,425,195,8,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_205,424,195,17,5,8,11,Dinoflagellata,Dinophyceae,Phalachroma,"Phalacroma doryphorum Stein, 1883"
+ASV_206,428,194,9,1,2,-1,Metazoa,Arthropoda,Candacia,"Candacia Dana, 1846"
+ASV_207,426,193,7,1,2,0,Metazoa,Arthropoda,Mecynocera,"Mecynocera Thompson I.C., 1888"
+ASV_208,416,191,18,0,5,10,Ciliophora,Spirotrichea,Dictyocysta,"Dictyocysta Ehrenberg, 1854"
+ASV_209,424,190,18,5,8,-1,Dinoflagellata,Dinophyceae,Tripos,"Tripos Bory de Saint-Vincent, 1823"
+ASV_210,429,181,12,5,6,9,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_211,422,181,8,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_212,429,172,10,2,0,3,Unassigned,Unassigned,,Nassellaria
+ASV_213,424,169,9,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_214,426,168,10,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_215,428,164,10,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_216,426,164,14,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_217,424,163,5,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_218,418,162,17,0,5,10,Ciliophora,Spirotrichea,Steenstrupiella,"Steenstrupiella Kofoid & Campbell, 1929"
+ASV_219,429,161,2,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum inerme (J. Müller, 1856)"
+ASV_220,428,160,11,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_221,428,159,10,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_222,423,158,10,7,7,-1,Metazoa,Ctenophora,,"Ctenophora Eschscholtz, 1829"
+ASV_223,428,158,14,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_224,428,157,12,4,3,7,Metazoa,Arthropoda,Pachos,"Pachos Stebbing, 1910"
+ASV_225,424,157,10,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_226,426,157,8,3,1,0,Metazoa,Arthropoda,Acrocalanus,"Acrocalanus gracilis Giesbrecht, 1888"
+ASV_227,425,156,2,1,2,0,Metazoa,Arthropoda,Subeucalanus,"Subeucalanus Geletin, 1976"
+ASV_228,419,152,11,0,5,10,Ciliophora,Spirotrichea,,"Tintinnidae Claparède & Lachmann, 1858"
+ASV_229,423,150,12,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_230,416,147,9,0,5,10,Ciliophora,Spirotrichea,Xystonella,"Xystonella longicauda (Brandt, 1906) Brandt, 1906"
+ASV_231,429,147,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_232,428,146,12,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_233,429,145,1,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum Haeckel, 1862 sensu Brandt, 1905"
+ASV_234,424,144,12,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_235,424,144,10,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_236,427,140,1,6,4,-1,Metazoa,Platyhelminthes,Prostheceraeus,"Prostheceraeus vittatus (Montagu, 1815)"
+ASV_237,428,139,14,4,3,7,Metazoa,Arthropoda,Sapphirina,"Sapphirina Thompson J., 1829"
+ASV_238,424,138,5,6,4,-1,Metazoa,Mollusca,,Mollusca
+ASV_239,424,138,12,6,4,-1,Metazoa,Mollusca,,Mollusca
+ASV_240,426,136,6,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_241,424,135,7,6,4,8,Metazoa,Annelida,,Annelida
+ASV_242,424,133,19,5,8,11,Dinoflagellata,Dinophyceae,,"Dinophyceae Fritsch, 1927"
+ASV_243,429,131,5,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_244,428,131,14,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_245,436,129,9,6,4,-1,Metazoa,Mollusca,Aplysia,"Aplysia Linnaeus, 1767"
+ASV_246,417,128,17,7,6,13,Radiolaria,Acantharea,,Acantharea
+ASV_247,425,128,12,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_248,424,127,9,6,4,-1,Metazoa,Mollusca,,Mollusca
+ASV_249,428,127,7,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_250,424,126,18,5,8,12,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_251,425,126,6,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_252,424,125,6,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_253,426,124,11,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_254,428,123,7,4,3,7,Metazoa,Arthropoda,Sapphirina,"Sapphirina Thompson J., 1829"
+ASV_255,424,123,3,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_256,424,120,5,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_257,430,119,5,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_258,428,118,14,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_259,430,117,4,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_260,428,116,2,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_261,429,115,1,2,0,2,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_262,429,115,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_263,424,114,10,5,8,-1,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_264,422,113,8,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_265,424,113,10,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus minutus Andronov, 1973"
+ASV_266,418,112,16,0,5,10,Ciliophora,Spirotrichea,Amphorides,"Amphorides quadrilineata (Claparède & Lachmann, 1858)"
+ASV_267,397,112,13,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_268,432,112,6,6,4,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_269,426,112,10,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_271,428,111,7,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_272,422,109,10,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_273,426,109,8,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus Boeck, 1865"
+ASV_274,429,109,5,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia danae Giesbrecht, 1889"
+ASV_275,428,107,10,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_276,424,107,4,5,8,11,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_277,423,107,2,5,8,-1,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_278,429,106,4,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_279,424,106,5,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_280,427,105,8,4,3,1,Metazoa,Arthropoda,,Maxillopoda
+ASV_281,429,105,1,2,0,3,Radiolaria,Polycystinea,Collozoum,Collozoum pelagicum
+ASV_282,416,102,6,0,5,10,Ciliophora,Spirotrichea,,"Undellidae Kofoid & Campbell, 1929"
+ASV_283,428,102,12,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_284,430,102,9,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia negligens Dana, 1849"
+ASV_285,426,101,7,1,2,0,Metazoa,Arthropoda,Pleuromamma,"Pleuromamma Giesbrecht in Giesbrecht & Schmeil, 1898"
+ASV_286,432,101,11,6,4,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_287,424,100,6,5,8,12,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_288,397,100,13,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_289,432,98,4,6,4,-1,Metazoa,Mollusca,,"Caenogastropoda Cox, 1960"
+ASV_290,426,98,7,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_291,422,97,6,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_292,424,97,10,5,8,11,Dinoflagellata,Dinophyceae,,"Dinophyceae Fritsch, 1927"
+ASV_293,429,96,8,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_294,424,96,12,5,8,-1,Dinoflagellata,Dinophyceae,Tripos,"Tripos Bory de Saint-Vincent, 1823"
+ASV_295,416,95,7,0,5,10,Ciliophora,Spirotrichea,Dictyocysta,"Dictyocysta Ehrenberg, 1854"
+ASV_296,423,94,8,5,8,-1,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_297,428,93,14,3,1,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_298,427,92,5,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_299,427,92,9,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_300,424,91,15,5,8,11,Dinoflagellata,Dinophyceae,,"Gymnodiniaceae Lankester, 1885"
+ASV_301,424,91,8,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_302,424,90,16,5,8,12,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_303,424,89,3,6,8,-1,Haptophyta,Prymnesiophyceae,Haptolina,"Haptolina Edvardsen & Eikrem, 2011"
+ASV_304,426,89,9,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_305,418,88,14,0,5,10,Ciliophora,Spirotrichea,Steenstrupiella,"Steenstrupiella Kofoid & Campbell, 1929"
+ASV_306,424,88,12,5,8,-1,Dinoflagellata,Dinophyceae,Tripos,"Tripos Bory de Saint-Vincent, 1823"
+ASV_307,424,88,8,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_308,430,85,5,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_309,427,85,15,1,2,-1,Metazoa,Arthropoda,Copilia,"Copilia mirabilis Dana, 1852"
+ASV_310,397,85,9,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_311,423,84,15,5,8,-1,Dinoflagellata,Dinophyceae,Gonyaulax,"Gonyaulax polygramma Stein, 1883"
+ASV_312,418,82,2,0,5,10,Ciliophora,Spirotrichea,Leegaardiella,"Leegaardiella Lynn & Montagnes, 1988"
+ASV_313,427,82,12,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_314,424,82,17,5,8,11,Dinoflagellata,Dinophyceae,Goniodoma,"Goniodoma polyedricum (Pouchet) Dodge, 1981"
+ASV_315,429,81,3,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_316,424,80,13,5,8,12,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_317,426,80,3,1,2,0,Metazoa,Arthropoda,Pleuromamma,"Pleuromamma Giesbrecht in Giesbrecht & Schmeil, 1898"
+ASV_318,425,79,9,6,2,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_319,397,79,14,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_320,434,79,10,6,4,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_321,429,78,4,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum inerme (J. Müller, 1856)"
+ASV_322,428,77,6,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_323,426,77,3,3,2,0,Metazoa,Arthropoda,Delibus,"Delibus Andronov in Vives & Shmeleva, 2007"
+ASV_324,429,76,3,2,0,3,Radiolaria,Polycystinea,Disolenia,"Disolenia quadrata (Ehrenberg) Nigrini, 1967"
+ASV_326,429,75,10,5,6,9,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_327,426,75,8,1,2,0,Metazoa,Arthropoda,Lucicutia,"Lucicutia Giesbrecht, 1898"
+ASV_328,428,73,3,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_329,429,73,10,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_330,407,72,5,6,4,-1,Metazoa,Annelida,,Annelida
+ASV_331,424,72,4,5,8,11,Dinoflagellata,Dinophyceae,Blastodinium,"Blastodinium Chatton, 1906"
+ASV_332,429,70,14,2,0,3,Radiolaria,Polycystinea,Disolenia,"Disolenia quadrata (Ehrenberg) Nigrini, 1967"
+ASV_333,424,69,14,5,8,11,Dinoflagellata,Dinophyceae,Warnowia,"Warnowia Lindemann, 1928"
+ASV_334,428,69,10,4,3,7,Metazoa,Arthropoda,Sapphirina,"Sapphirina Thompson J., 1829"
+ASV_335,429,69,5,1,2,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888"
+ASV_336,424,67,5,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_337,426,67,2,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_338,429,66,7,5,6,9,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_339,425,64,9,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_340,425,63,8,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_341,428,63,10,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_342,397,63,12,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_343,416,62,3,0,5,10,Unassigned,Unassigned,,"Tintinnida Kofoid & Campbell, 1929"
+ASV_344,416,62,11,0,5,10,Ciliophora,Spirotrichea,Dadayiella,"Dadayiella ganymedes (Entz, 1884) Kofoid & Campbell, 1929"
+ASV_345,415,61,3,0,5,10,Ciliophora,Spirotrichea,Rhabdonella,"Rhabdonella spiralis (Fol, 1881)"
+ASV_346,424,61,4,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_347,428,61,5,2,0,-1,Unassigned,Unassigned,,Nassellaria
+ASV_348,416,60,8,0,5,10,Ciliophora,Spirotrichea,,"Undellidae Kofoid & Campbell, 1929"
+ASV_349,424,60,11,5,8,11,Dinoflagellata,Dinophyceae,Phalachroma,"Phalacroma rotundatum (Claparéde & Lachmann) Kofoid & Michener, 1911"
+ASV_350,427,58,12,4,3,7,Metazoa,Arthropoda,,Maxillopoda
+ASV_351,426,58,9,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_352,429,58,12,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia negligens Dana, 1849"
+ASV_353,422,57,8,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_354,424,57,8,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_355,428,57,7,1,2,-1,Metazoa,Arthropoda,Candacia,"Candacia Dana, 1846"
+ASV_356,430,55,3,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_357,424,55,5,6,4,8,Metazoa,Annelida,,Annelida
+ASV_358,430,55,3,6,4,-1,Metazoa,Arthropoda,Euphausia,"Euphausia Dana, 1850"
+ASV_359,430,55,10,6,4,-1,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_360,424,54,6,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_361,424,53,13,5,8,11,Dinoflagellata,Dinophyceae,Ornithocercus,"Ornithocercus Stein, 1883"
+ASV_362,424,53,6,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_363,424,52,13,5,8,11,Unassigned,Unassigned,,"Peridiniales Haeckel, 1894"
+ASV_364,428,52,4,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_365,413,51,9,7,6,13,Radiolaria,Acantharea,,Acantharea
+ASV_366,428,51,5,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_367,429,51,2,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum inerme (J. Müller, 1856)"
+ASV_368,424,50,14,5,8,11,Dinoflagellata,Dinophyceae,,"Dinophyceae Fritsch, 1927"
+ASV_369,424,50,4,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_370,428,50,5,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_371,429,50,5,6,4,-1,Metazoa,Arthropoda,Miracia,"Miracia Dana, 1846"
+ASV_372,416,49,10,0,5,10,Unassigned,Unassigned,,"Tintinnida Kofoid & Campbell, 1929"
+ASV_373,424,49,7,5,8,11,Dinoflagellata,Dinophyceae,Blastodinium,"Blastodinium mangini Chatton, 1908"
+ASV_374,419,48,7,0,5,10,Ciliophora,Spirotrichea,Salpingella,"Salpingella Jörgensen, 1924"
+ASV_375,429,48,3,2,0,-1,Radiolaria,Polycystinea,,Sphaerozoidae
+ASV_376,428,47,4,6,4,6,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_377,424,47,13,5,8,-1,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_378,400,47,11,3,1,0,Metazoa,Arthropoda,Acrocalanus,"Acrocalanus Giesbrecht, 1888"
+ASV_379,437,46,7,6,4,-1,Metazoa,Mollusca,,"Caenogastropoda Cox, 1960"
+ASV_380,424,46,8,6,4,-1,Metazoa,Mollusca,,Mollusca
+ASV_381,428,46,5,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_382,428,45,10,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_383,425,44,11,6,4,-1,Metazoa,Arthropoda,Calocalanus,"Calocalanus styliremis Giesbrecht, 1888"
+ASV_384,434,44,5,6,4,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_385,426,44,9,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_386,426,44,7,1,2,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_387,424,43,13,5,8,11,Dinoflagellata,Dinophyceae,,"Thoracosphaeraceae Schiller, 1930 emend. Tangen in Tangen, Brand, Blackwelder & Guillard, 1982"
+ASV_388,424,42,9,5,8,11,Unassigned,Unassigned,,"Peridiniales Haeckel, 1894"
+ASV_389,424,42,5,5,8,11,Dinoflagellata,Dinophyceae,Blastodinium,"Blastodinium mangini Chatton, 1908"
+ASV_390,424,42,14,5,8,-1,Dinoflagellata,Dinophyceae,Tripos,"Tripos Bory de Saint-Vincent, 1823"
+ASV_391,428,42,9,1,2,0,Metazoa,Arthropoda,Lucicutia,"Lucicutia Giesbrecht, 1898"
+ASV_392,428,42,7,4,3,7,Metazoa,Arthropoda,,Maxillopoda
+ASV_393,422,41,11,5,8,-1,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_394,427,41,11,1,2,-1,Metazoa,Arthropoda,Copilia,"Copilia mirabilis Dana, 1852"
+ASV_395,429,41,7,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia danae Giesbrecht, 1889"
+ASV_396,424,40,6,6,8,-1,Haptophyta,Prymnesiophyceae,Algirosphaera,"Algirosphaera robusta (Lohmann) R.E.Norris, 1984"
+ASV_397,432,40,9,6,4,-1,Unassigned,Unassigned,,"Gastropoda Cuvier, 1795"
+ASV_398,424,40,8,6,4,-1,Metazoa,Mollusca,,Mollusca
+ASV_399,424,40,8,5,8,12,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_400,434,40,7,6,4,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_401,429,40,6,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum Haeckel, 1862 sensu Brandt, 1905"
+ASV_402,430,40,6,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia negligens Dana, 1849"
+ASV_403,427,38,5,6,2,-1,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus arcuicornis (Dana, 1849)"
+ASV_404,424,37,5,5,8,12,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_405,428,37,6,4,3,7,Metazoa,Arthropoda,Sapphirina,"Sapphirina scarlata Giesbrecht, 1891"
+ASV_406,424,37,7,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus minutus Andronov, 1973"
+ASV_407,424,37,3,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_408,429,37,5,2,0,3,Radiolaria,Polycystinea,Collozoum,"Collozoum Haeckel, 1862 sensu Brandt, 1905"
+ASV_409,430,36,3,6,4,-1,Metazoa,Annelida,,Annelida
+ASV_410,416,36,7,0,5,10,Ciliophora,Spirotrichea,Xystonella,"Xystonella longicauda (Brandt, 1906) Brandt, 1906"
+ASV_411,427,36,4,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_412,427,36,7,4,3,-1,Metazoa,Arthropoda,Copilia,"Copilia mirabilis Dana, 1852"
+ASV_413,429,36,5,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_414,424,36,7,5,8,11,Unassigned,Unassigned,,"Gymnodiniales Lemmermann, 1910"
+ASV_415,428,36,10,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_416,426,36,6,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_417,429,35,7,5,6,9,Unassigned,Unassigned,,"Spumellaria Ehrenberg, 1875"
+ASV_418,416,35,5,0,5,10,Ciliophora,Spirotrichea,,"Dictyocystidae Haeckel, 1873"
+ASV_419,424,35,7,5,8,11,Dinoflagellata,Dinophyceae,,"Thoracosphaeraceae Schiller, 1930 emend. Tangen in Tangen, Brand, Blackwelder & Guillard, 1982"
+ASV_420,424,35,2,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_421,426,35,9,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888"
+ASV_422,428,35,10,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_423,426,35,5,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_424,428,35,9,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_425,424,34,5,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_426,430,34,8,6,4,-1,Metazoa,Urochordata,,"Urochordata Lamarck, 1816"
+ASV_427,416,34,10,0,5,10,Ciliophora,Spirotrichea,Dictyocysta,"Dictyocysta Ehrenberg, 1854"
+ASV_428,414,34,8,0,5,-1,Ciliophora,Spirotrichea,Eutintinnus,"Eutintinnus Kofoid & Campbell, 1939"
+ASV_429,427,34,6,1,2,-1,Metazoa,Arthropoda,Copilia,"Copilia mirabilis Dana, 1852"
+ASV_430,424,34,5,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_431,416,33,14,7,6,13,Radiolaria,Acantharea,,Acantharea
+ASV_432,428,33,9,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_433,428,33,10,1,2,-1,Metazoa,Arthropoda,Centropages,"Centropages violaceus (Claus, 1863)"
+ASV_434,424,32,8,5,8,11,Dinoflagellata,Dinophyceae,,"Dinophyceae Fritsch, 1927"
+ASV_435,424,32,10,5,8,11,Dinoflagellata,Dinophyceae,Pelagodinium,"Pelagodinium Siano, Montresor, Probert & de Vargas, 2010"
+ASV_436,426,32,5,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_437,416,31,10,7,6,13,Radiolaria,Acantharea,,Acantharea
+ASV_438,422,31,9,5,8,-1,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_439,419,31,7,0,5,10,Ciliophora,Spirotrichea,,"Tintinnidae Claparède & Lachmann, 1858"
+ASV_440,426,31,6,1,2,0,Metazoa,Arthropoda,Pleuromamma,"Pleuromamma abdominalis (Lubbock, 1856)"
+ASV_442,416,30,7,0,5,10,Ciliophora,Spirotrichea,,"Dictyocystidae Haeckel, 1873"
+ASV_443,427,30,8,4,3,7,Metazoa,Arthropoda,Corycaeus,"Corycaeus speciosus Dana, 1849"
+ASV_444,428,30,8,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_445,397,30,11,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_446,416,29,12,7,6,13,Radiolaria,Acantharea,,Acantharea
+ASV_447,414,29,4,7,6,-1,Radiolaria,Acantharea,,Acantharea
+ASV_448,436,29,8,6,4,-1,Metazoa,Mollusca,Aplysia,"Aplysia Linnaeus, 1767"
+ASV_449,422,29,4,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_450,428,29,10,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus arcuicornis (Dana, 1849)"
+ASV_451,426,29,9,1,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_452,426,28,4,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_453,417,27,8,7,6,13,Radiolaria,Acantharea,,Acantharea
+ASV_454,423,27,6,7,7,4,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_455,424,27,8,6,8,-1,Haptophyta,Prymnesiophyceae,,Prymnesiophyceae Hibberd
+ASV_456,426,27,8,1,2,0,Metazoa,Arthropoda,Cosmocalanus,"Cosmocalanus Bradford & Jillett, 1974"
+ASV_457,428,27,10,1,2,-1,Metazoa,Arthropoda,Centropages,"Centropages violaceus (Claus, 1863)"
+ASV_458,399,27,8,3,1,0,Metazoa,Arthropoda,Acrocalanus,"Acrocalanus Giesbrecht, 1888"
+ASV_459,422,26,7,5,8,-1,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_460,433,26,9,6,4,-1,Metazoa,Mollusca,,Mollusca
+ASV_461,436,26,9,6,4,-1,Metazoa,Mollusca,Creseis,"Creseis Rang, 1828"
+ASV_462,420,26,2,0,5,10,Ciliophora,Spirotrichea,Leegaardiella,"Leegaardiella Lynn & Montagnes, 1988"
+ASV_463,428,26,8,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_464,427,26,10,6,2,-1,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus arcuicornis (Dana, 1849)"
+ASV_465,424,25,12,5,8,-1,Dinoflagellata,Dinophyceae,Tripos,"Tripos Bory de Saint-Vincent, 1823"
+ASV_466,424,25,8,5,8,11,Dinoflagellata,Dinophyceae,Gymnoxanthella,"Gymnoxanthella radiolariae T.Yuasa & T.Horiguchi, 2016"
+ASV_467,426,25,8,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus Giesbrecht, 1888"
+ASV_468,427,24,8,4,3,7,Metazoa,Arthropoda,,Maxillopoda
+ASV_469,436,23,3,6,4,-1,Metazoa,Mollusca,,"Heterobranchia Burmeister, 1837"
+ASV_470,419,23,3,0,5,10,Ciliophora,Spirotrichea,Salpingella,"Salpingella Jörgensen, 1924"
+ASV_471,423,23,10,5,8,12,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_472,424,23,11,5,8,11,Unassigned,Unassigned,,"Peridiniales Haeckel, 1894"
+ASV_473,428,23,7,6,2,-1,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus arcuicornis (Dana, 1849)"
+ASV_474,424,22,3,4,3,5,Metazoa,Arthropoda,,Maxillopoda
+ASV_475,428,22,3,4,3,7,Metazoa,Arthropoda,Sapphirina,"Sapphirina scarlata Giesbrecht, 1891"
+ASV_476,427,22,6,3,2,0,Metazoa,Arthropoda,,Maxillopoda
+ASV_479,428,22,4,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_480,426,22,4,1,2,0,Metazoa,Arthropoda,Neocalanus,"Neocalanus Sars G.O., 1925"
+ASV_481,429,22,4,6,4,-1,Metazoa,Arthropoda,Miracia,"Miracia Dana, 1846"
+ASV_482,428,22,8,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_483,424,21,7,5,8,11,Dinoflagellata,Dinophyceae,Amphisolenia,"Amphisolenia bidentata Schröder, 1900"
+ASV_484,426,21,5,3,1,-1,Metazoa,Arthropoda,Delibus,"Delibus Andronov in Vives & Shmeleva, 2007"
+ASV_485,416,21,2,0,8,-1,Ciliophora,Nassophorea,,"Nassophorea Small & Lynn, 1981"
+ASV_486,416,20,5,0,5,10,Ciliophora,Spirotrichea,,"Undellidae Kofoid & Campbell, 1929"
+ASV_487,424,20,11,6,4,8,Metazoa,Annelida,,Annelida
+ASV_488,428,20,11,4,3,7,Metazoa,Arthropoda,,Maxillopoda
+ASV_489,426,20,7,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888"
+ASV_490,429,20,6,8,4,-1,Metazoa,Arthropoda,Acartia,"Acartia negligens Dana, 1849"
+ASV_492,412,19,10,7,6,13,Radiolaria,Acantharea,,Acantharea
+ASV_493,417,19,3,0,5,10,Ciliophora,Spirotrichea,Leegaardiella,"Leegaardiella Lynn & Montagnes, 1988"
+ASV_494,413,18,8,7,6,13,Radiolaria,Acantharea,,Acantharea
+ASV_495,429,18,4,4,3,-1,Metazoa,Arthropoda,Oithona,"Oithona similis Claus, 1866"
+ASV_496,428,18,3,1,2,-1,Metazoa,Arthropoda,,Maxillopoda
+ASV_497,425,18,3,3,1,0,Metazoa,Arthropoda,Calocalanus,"Calocalanus plumulosus (Claus, 1863)"
+ASV_498,426,17,8,3,1,0,Metazoa,Arthropoda,Paracalanus,"Paracalanus aculeatus Giesbrecht, 1888"
+ASV_499,428,17,8,4,3,1,Metazoa,Arthropoda,Oithona,"Oithona Baird, 1843"
+ASV_500,433,16,3,6,4,-1,Metazoa,Mollusca,,"Heterobranchia Burmeister, 1837"
+ASV_501,422,16,7,7,7,-1,Metazoa,Cnidaria,,"Cnidaria Hatschek, 1888"
+ASV_502,424,16,7,5,8,12,Dinoflagellata,Syndiniales,,Syndiniales
+ASV_503,428,16,5,1,2,0,Metazoa,Arthropoda,Clausocalanus,"Clausocalanus Giesbrecht, 1888"
+ASV_504,418,15,4,3,1,0,Metazoa,Arthropoda,Acrocalanus,"Acrocalanus Giesbrecht, 1888"
